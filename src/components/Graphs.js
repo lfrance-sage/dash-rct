@@ -134,7 +134,7 @@ const Graphs = () => {
       color="black" width='300px' height="300px" 
       scrolling="no"
       frameBorder="0"
-      src="https://chart-embed.service.newrelic.com/herald/b6c2cac3-b098-402b-9406-7053343bf54b?height=400px&timepicker=true" ></iframe>
+      src="https://chart-embed.service.newrelic.com/herald/cd7b1c5d-2e01-428b-af55-6ba742966702?height=400px&timepicker=true" ></iframe>
       
       <iframe 
       color="black" width='500px' height="400px" 
