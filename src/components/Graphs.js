@@ -27,10 +27,10 @@ const Graphs = () => {
       height="550px"  src="https://chart-embed.service.newrelic.com/herald/e0093782-42ed-4e52-8241-3e178813d0b9?height=500px&timepicker=true" >      
       </iframe>
       <iframe 
-      color="black" width='250px' height="340px" 
+      color="black" width='250px' height="480px" 
       scrolling="no"
       frameBorder="0"
-      src="https://chart-embed.service.newrelic.com/herald/f99a2b3e-856d-43f8-9daa-f6698280d569?height=300px&timepicker=true" ></iframe>
+      src="https://chart-embed.service.newrelic.com/herald/76bea883-736b-4f63-974b-f9f3504f2250?height=400px&timepicker=true" ></iframe>
       </div>
 
 
@@ -67,23 +67,23 @@ const Graphs = () => {
       
      
       <iframe 
-      color="black" width='500px' height="300px" 
+      color="black" width='500px' height="420px" 
       scrolling="no"
       frameBorder="0"
-      src="https://chart-embed.service.newrelic.com/herald/f196a5ed-c598-4d13-89b2-48c1a9c7c56f?height=300px&timepicker=true" ></iframe>
+      src="https://chart-embed.service.newrelic.com/herald/549ff47a-0480-44b2-8618-c92e90757903?height=400px&timepicker=true" ></iframe>
 
       
       <iframe 
-      color="black" width='500px' height="300px" 
+      color="black" width='500px' height="420px" 
       scrolling="no"
       frameBorder="0"
-      src="https://chart-embed.service.newrelic.com/herald/0f1da5c3-85ff-471b-90a4-fe20d18e2cf4?height=300px&timepicker=true" ></iframe>
+      src="https://chart-embed.service.newrelic.com/herald/fb1bc486-c15c-45d5-8756-ee411bf4dfcc?height=400px&timepicker=true" ></iframe>
 
       <iframe 
-      color="black" width='500px' height="300px" 
+      color="black" width='500px' height="420px" 
       scrolling="no"
       frameBorder="0"
-      src="https://chart-embed.service.newrelic.com/herald/fbeb10b4-b5a8-4abb-ad7c-3ba53c96ef90?height=300px&timepicker=true" ></iframe>
+      src="https://chart-embed.service.newrelic.com/herald/d60553fd-c40a-4217-b034-7d0917f67409?height=400px&timepicker=true" ></iframe>
 
       
       
@@ -123,12 +123,12 @@ const Graphs = () => {
       color="black" width='300px' height="325px" 
       scrolling="no"
       frameBorder="0"
-      src="https://chart-embed.service.newrelic.com/herald/e680313c-f31e-4b05-bcce-2f3fdf363a64?height=400px&timepicker=true" ></iframe>
+      src="https://chart-embed.service.newrelic.com/herald/de25d6a7-50e1-4d79-a87a-8a1b69fc553a?height=400px&timepicker=true" ></iframe>
       <iframe 
       color="black" width='300px' height="325px" 
       scrolling="no"
       frameBorder="0"
-      src="https://chart-embed.service.newrelic.com/herald/60a65969-9018-4414-8154-e6b6c2a5e090?height=450px&timepicker=true" ></iframe>
+      src="https://chart-embed.service.newrelic.com/herald/1062cda1-f957-4b36-a340-2fa515752b27?height=400px&timepicker=true" ></iframe>
       
       <iframe 
       color="black" width='300px' height="300px" 
