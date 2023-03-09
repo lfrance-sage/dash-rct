@@ -1,4 +1,4 @@
-.row1 {
+/* .row1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -6,7 +6,7 @@
 
 .row1 iframe {
   width: 16.666%;
-  height: 20vh;
+  height: 30vh;
   max-width: -3000;
   margin-bottom: 20px;
 }
@@ -27,9 +27,9 @@
 }
 
 .row2 iframe {
-  width: 600px;
-  height: 30vh;
-  margin-right: 60px;
+  width: 16.666%;
+  height: 50vh;
+
 }
 
 @media screen and (max-width: 1300px) {
@@ -38,7 +38,7 @@
   }
   .row2 iframe {
     width: calc(50% - 10px);
-    height: 30vh;
+    height: 90vh;
     margin-right: 10px;
     margin-bottom: 20px;
   }
@@ -69,4 +69,70 @@
   }
 }
 
+ */
 
+ .row1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: -10px;
+}
+
+.row1 iframe {
+  width: 250px;
+  height: 300px;
+}
+
+.row2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: -75px;
+}
+
+.row2 iframe {
+  width: 300px;
+  height: 320px;
+}
+
+iframe {
+  margin: 30px;
+}
+.row3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: -75px;
+}
+
+.row3 iframe {
+  width: 300px;
+  height: 320px;
+}
+
+iframe {
+  margin: 30px;
+}
+.row4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: -75px;
+}
+
+.row4 iframe {
+  width: 300px;
+  height: 320px;
+}
+
+iframe {
+  margin: 30px;
+}
